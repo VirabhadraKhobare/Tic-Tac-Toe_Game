@@ -16,7 +16,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 - **JavaScript**: For game logic and interactivity.
 
 ## 🖼️ Screenshot
-![Game Preview](img/tic-toc-toe.jpg)
+![Game Preview](img/tic-toc-toe.png)
 
 ## 🚀 Live Demo
 🔗 **Play Now:** [**START**](https://tic-toc-toe-game-viru.netlify.app/)
