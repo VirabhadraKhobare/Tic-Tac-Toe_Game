@@ -15,17 +15,11 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 - **CSS**: For styling the game board and elements.
 - **JavaScript**: For game logic and interactivity.
 
-## How to Run the Game
+## 🖼️ Screenshot
+![Game Preview](img/tic-toc-toe.jpg)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd tic-tac-toe
-
-3. Open the index.html file in your browser to start playing.
+## 🚀 Live Demo
+🔗 **Play Now:** [**START**](https://tic-toc-toe-game-viru.netlify.app/)
 
 ## How to Play
 
@@ -35,7 +29,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 4. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 5. If all 9 cells are filled without a winner, the game ends in a draw.
 
-## Screenshots
+---
 
 ## File Structure
    ```bash
@@ -44,17 +38,3 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
    ├── style.css     # Stylesheet for the game
    ├── script.js     # JavaScript file with game logic
    └── README.md     # Project documentation
-   
-## Future Enhancements
-   Add a single-player mode with an AI opponent.
-   Include themes or customizations for the game board.
-   Add sound effects and animations for better interactivity.
-
-## License
-  This project is licensed under the MIT License.
-
-## Feel free to contribute, fork, or report any issues!
-   ```vbnet
-   Replace `yourusername` in the clone command with your GitHub username and update the `path/to/screenshot.png` with an actual path to a screenshot of your game (if available). Let me know if you'd like help with anything else!
-
-
